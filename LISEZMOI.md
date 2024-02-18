@@ -1,10 +1,14 @@
-# Delphi-Projects-Template
+# FMX MultiPad
 
 [This page in english.](README.md)
 
-**Un modèle de dépôt git pour mes projets Delphi (ou autres).**
+Editeur de textes basique développé sous Delphi avec son framework multiplateformes FireMonkey (FMX) pour Windows, macOS, Linux, iOS et Android.
 
-**Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.**
+Le programme permet l'ouverture et la modification de fichiers d'extension .txt et leur enregistrement en UTF-8.
+
+Vous pouvez éditer un ou plusieurs fichiers en même temps dans [FMX Multipad] (https://github.com/DeveloppeurPascal/FMX-MultiPad), mais si vous préférez un éditeur de texte à fichier unique, utilisez [FMX Notepad](https://github.com/DeveloppeurPascal/FMX-Notepad).
+
+Ce logiciel a été utilisé comme démo lors d'une session de [codage en direct sur Twitch](https://www.twitch.tv/patrickpremartin). Vous pouvez en [voir la rediffusion sur Serial Streameur](https://serialstreameur.fr/live-coding-20210211.php) ou consulter [d'autres vidéos sur ce logiciel d'édition de textes](https://serialstreameur.fr/poc-fmxnotepad.php).
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
